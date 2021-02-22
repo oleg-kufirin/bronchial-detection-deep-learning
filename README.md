@@ -20,7 +20,8 @@ for improvements and future research are proposed.
 **Report**: documentation/Deep_Learning_for_Improved_Bronchial_Tree_Segmentation_in_CT_Images___Project_report.pdf  
 
 *main.py* - driver program  
-*bronchial_tree.py* - implementation
+*bronchial_tree.py* - implementation  
+*annotations.txt* - manual annotations created with implemented annotation tool
 
 ### Implementational aspects
 All the work in thiImplementational aspectss project has been done on a local computer with the following characteristics:
