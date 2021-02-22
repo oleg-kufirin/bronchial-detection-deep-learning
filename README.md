@@ -24,7 +24,7 @@ for improvements and future research are proposed.
 *annotations.txt* - manual annotations created with implemented annotation tool
 
 ### Implementational aspects
-All the work in thiImplementational aspectss project has been done on a local computer with the following characteristics:
+All the work in this project has been done on a local computer with the following characteristics:
 Intel Core i7-6500U CPU @ 2.5GHz, 8 GB RAM, GPU NVIDIA GeForce 920MX 2GB.
 The code was written in Python 3.7.7 in Spyder IDE v.4.1.4 with the help of the following libraries:
 scipy v.1.5.0, sklearn v.0.23.1, sortedcontainers v.2.2.2, numpy v.1.19.1, matplotlib v.3.2.2,
