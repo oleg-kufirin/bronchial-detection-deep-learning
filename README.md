@@ -1,2 +1,2 @@
-# bronchial-detection-deep-learning
-Deep Learning for Improved Bronchial Tree Segmentation in CT Images
+# Deep Learning for Improved Bronchial Tree Segmentation in CT Images
+### Master's research project at UNSW CSE, 2020
